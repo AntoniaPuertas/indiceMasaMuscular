@@ -51,3 +51,12 @@ button:hover{
     font-weight: bold;
     background-color: rgb(118, 167, 213);
 }
+#resultadoEstudio{
+    padding: 1rem;
+    text-align: center;
+    line-height: 2;
+}
+
+#resultadoEstudio span{
+    font-size: 1.5rem;
+}
